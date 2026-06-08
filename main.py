@@ -104,7 +104,8 @@ actual live computed styles from the website.
 ### Task:
 1. Compare the 'Intended CSS' with the 'Live Computed Styles'.
 2. Explain class by class in the 'Live Computed Styles' what and how to improve styling include all element of css inside class(tell them how to make it match the intended design)
-3. make a nice table to report it
+3. make a nice table to report it each table say class, element, attribute, how to set those number, what else to improve, what is the issue
+4. keep in mind that the number of element would not match cuz one is frontend demo and one is figma design
 """
 
 # 3. Call Gemini
