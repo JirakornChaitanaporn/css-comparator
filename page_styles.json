@@ -1090,8 +1090,7 @@
     "classes": [
       "coral3-Icon",
       "coral3-Dialog-typeIcon",
-      "coral3-Icon--sizeS",
-      "coral3-Icon--checkCircle"
+      "coral3-Icon--sizeS"
     ],
     "styles": {
       "background-color": "rgba(0, 0, 0, 0)",

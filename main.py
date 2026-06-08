@@ -7,7 +7,6 @@ from google import genai
 load_dotenv()
 
 gemini_key = os.getenv("GEMINI_KEY")
-node_id = ["","","","","","","","","","","","","","","","","","",""]
 
 if not gemini_key:
     raise ValueError("GEMINI_KEY is missing. Set it in your environment or .env file before running.")
@@ -111,7 +110,7 @@ actual live computed styles from the website.
 # 3. Call Gemini
 try:
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.5-flash",
         contents=comparison_prompt
     )
     print("\n--- DESIGN AUDIT REPORT ---")
