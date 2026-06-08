@@ -1,0 +1,2603 @@
+/* K WEALTH News & PR - Desktop */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+
+position: absolute;
+width: 1440px;
+height: 1412px;
+left: 244px;
+top: 737px;
+
+
+
+/* Section2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 160px 150px 64px;
+gap: 40px;
+isolation: isolate;
+
+width: 1440px;
+height: 1292px;
+
+background: #F8F8F8;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 1000004493 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 1140px;
+height: 988px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group 1000002222 */
+
+width: 1140px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000005119 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 1140px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+
+
+/* Group 1000002222 */
+
+width: 237px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000005119 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 237px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+
+
+/* Bread crumb */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 237px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Bread crumb base */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 110px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Page Name */
+
+width: 110px;
+height: 20px;
+
+/* General/Label-Semibold
+
+ใช้สำหรับ Label และ Input
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+display: flex;
+align-items: center;
+
+/* Text & Icon/Storm Dust */
+color: #666666;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Bread crumb base */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 8px;
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icons */
+
+width: 12px;
+height: 12px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1000003391 */
+
+position: absolute;
+left: 27.38%;
+right: 25%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector 12 (Stroke) */
+
+position: absolute;
+left: 27.37%;
+right: 25%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Text & Icon/Storm Dust
+
+ใช้สำหรับ Body text
+*/
+background: #666666;
+transform: rotate(180deg);
+
+
+/* Bread crumb base */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 107px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Page Name */
+
+width: 107px;
+height: 20px;
+
+/* General/Label-Semibold
+
+ใช้สำหรับ Label และ Input
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+display: flex;
+align-items: center;
+
+/* K Wealth/Deep Green/400 */
+color: #1C6157;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1321318523 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 1140px;
+height: 936px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1321318522 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+width: 1140px;
+height: 616px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000004492 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 1022px;
+height: 93px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* K WEALTH News & PR */
+
+width: 329px;
+height: 50px;
+
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 33px;
+line-height: 50px;
+/* identical to box height, or 152% */
+display: flex;
+align-items: center;
+
+color: #111111;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* รวบรวมข่าวสารและกิจกรรม จาก K WEALTH ศูนย์รวมความเชี่ยวชาญด้านการบริหารความมั่งคั่ง */
+
+width: 1022px;
+height: 27px;
+
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1321318498 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 1140px;
+height: 483px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ข่าวสารเเละกิจกรรมล่าสุด */
+
+width: 1140px;
+height: 39px;
+
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 150%;
+/* identical to box height, or 39px */
+display: flex;
+align-items: center;
+
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* thumbnail Card Highlight */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1140px;
+height: 420px;
+
+filter: drop-shadow(0px 1px 3px rgba(0, 0, 0, 0.1));
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Image Container */
+
+width: 700px;
+height: 420px;
+
+background: url(kwealth-article1-thumbnail (1).jpg), #CCEEDC;
+border-radius: 8px 0px 0px 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 48px;
+gap: 24px;
+
+width: 440px;
+height: 420px;
+
+/* Background/White */
+background: #FFFFFF;
+border-radius: 0px 8px 8px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Category Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 344px;
+height: 160px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 344px;
+height: 60px;
+
+/* Heading/Desktop/H4-Semibold */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+/* Text & Icon/Mine Shaft */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Date */
+
+width: 344px;
+height: 20px;
+
+/* Body/P3-Regular */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+
+/* Text & Icon/Storm Dust */
+color: #666666;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Description */
+
+width: 344px;
+height: 48px;
+
+/* Body/P1-Regular
+
+ใช้ได้ทั้ง Desktop และ Mobile กำหนดให้ใช้กับ Body ที่ไม่เกิน 10 บรรทัด
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+/* Text & Icon/Storm Dust */
+color: #666666;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Main Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 103px;
+height: 24px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icons */
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 103px;
+height: 24px;
+
+/* General/Text Link-Small */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+/* Text & Icon/Deep Green */
+color: #1C6157;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Article/VDO Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 273px;
+height: 280px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Image Container */
+
+width: 273px;
+height: 164px;
+
+background: url(K WEALTH Forum 2025 (1).jpg), #CCEEDC;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px 0px;
+gap: 16px;
+
+width: 273px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Category Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 273px;
+height: 84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Small tag */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 2px 12px;
+
+display: none;
+width: 79px;
+height: 24px;
+
+/* K Wealth/Deep Green/50 */
+background: #DBE6E5;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 273px;
+height: 84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Title container/Body P1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 273px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 273px;
+height: 48px;
+
+/* Body/P1-Semibold
+
+ใช้ได้ทั้ง Desktop และ Mobile กำหนดให้ใช้กับ Body ที่ไม่เกิน 10 บรรทัด
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+/* Text & Icon/Mine Shaft */
+color: #333333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Metadata Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 273px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Date */
+
+width: 273px;
+height: 20px;
+
+/* Body/P3-Regular */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+
+/* Text & Icon/Storm Dust */
+color: #666666;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Writers */
+
+display: none;
+width: 273px;
+height: 20px;
+
+/* Body/P3-Semibold */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+
+/* Text & Icon/Deep Green */
+color: #1C6157;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tag container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+display: none;
+width: 273px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 24px;
+gap: 8px;
+
+width: 140px;
+min-width: 122px;
+max-width: 328px;
+height: 40px;
+
+/* K Wealth/Deep Green/400 */
+background: #1C6157;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Icons */
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 92px;
+height: 24px;
+
+/* General/Button-Small */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Text & Icon/White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 1321318169 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 48px;
+height: 112px;
+left: 1344px;
+bottom: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Floating button */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 48px;
+height: 112px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Up to Top */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+width: 48px;
+height: 48px;
+
+/* Background/White */
+background: #FFFFFF;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.15);
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2 + 0px);
+top: calc(50% - 24px/2 - 0px);
+
+/* K Wealth/Deep Green/300 */
+background: #498179;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Text & Icon/White */
+background: #FFFFFF;
+
+
+/* Frame 1321318492 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+width: 48px;
+height: 48px;
+
+/* K Wealth/Deep Green/300 */
+background: #498179;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Grid */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 10.42%;
+bottom: 10.42%;
+
+/* Text & Icon/White */
+background: #FFFFFF;
+
+
+/* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 1440px;
+height: 120px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 108px;
+gap: 136px;
+
+width: 1440px;
+height: 56px;
+
+/* K Wealth/Deep Green/400 */
+background: #1C6157;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Social Media Icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 184px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icons */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1000003406 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Text & Icon/White */
+background: #FFFFFF;
+
+
+/* Icons */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 1000003408 */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 15.7%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 15.7%;
+
+/* Text & Icon/White */
+background: #FFFFFF;
+
+
+/* Icons */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 1000003409 */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Text & Icon/White */
+background: #FFFFFF;
+
+
+/* Icons */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 1000003410 */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 20.83%;
+bottom: 20.83%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* Text & Icon/White */
+background: #FFFFFF;
+
+
+/* Icons */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Subtract */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: calc(50% - 20px/2);
+top: calc(50% - 20px/2);
+
+/* Text & Icon/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Text & Icon/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.33%;
+right: 29.3%;
+top: 26.61%;
+bottom: 26.62%;
+
+background: #404040;
+
+
+/* Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 407px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* International Network */
+
+width: 123px;
+height: 20px;
+
+/* General/Label-Semibold
+
+ใช้สำหรับ Label และ Input
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+display: flex;
+align-items: center;
+
+/* Text & Icon/White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Separator */
+
+width: 24px;
+height: 0px;
+
+opacity: 0.2;
+/* Text & Icon/White */
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Data Protection */
+
+width: 153px;
+height: 20px;
+
+/* General/Label-Semibold
+
+ใช้สำหรับ Label และ Input
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+display: flex;
+align-items: center;
+
+/* Text & Icon/White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Separator */
+
+width: 24px;
+height: 0px;
+
+opacity: 0.2;
+/* Text & Icon/White */
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Disclaimer */
+
+width: 67px;
+height: 20px;
+
+/* General/Label-Semibold
+
+ใช้สำหรับ Label และ Input
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+display: flex;
+align-items: center;
+
+/* Text & Icon/White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Layer_1 */
+
+width: 1440px;
+height: 64px;
+
+/* Background/White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+width: 230.4px;
+height: 32px;
+left: 605px;
+top: 16px;
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.85px;
+height: 12.61px;
+left: calc(50% - 12.85px/2 - 108.58px);
+top: calc(50% - 12.61px/2 + 1.92px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.57px;
+height: 12.65px;
+left: calc(50% - 10.57px/2 - 95.2px);
+top: calc(50% - 12.65px/2 + 2.05px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.57px;
+height: 5.35px;
+left: calc(50% - 10.57px/2 - 96.12px);
+top: calc(50% - 5.35px/2 - 8.47px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 11.34px;
+height: 12.61px;
+left: calc(50% - 11.34px/2 - 82.72px);
+top: calc(50% - 12.61px/2 + 1.92px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 8.6px;
+height: 12.61px;
+left: calc(50% - 8.6px/2 - 71.18px);
+top: calc(50% - 12.61px/2 + 1.92px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.57px;
+height: 12.65px;
+left: calc(50% - 10.57px/2 - 59.9px);
+top: calc(50% - 12.65px/2 + 2.05px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.05px;
+height: 12.61px;
+left: calc(50% - 13.05px/2 - 47.35px);
+top: calc(50% - 12.61px/2 + 1.92px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.79px;
+height: 6.41px;
+left: calc(50% - 4.79px/2 - 43.22px);
+top: calc(50% - 6.41px/2 + 12.79px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 11.35px;
+height: 12.61px;
+left: calc(50% - 11.35px/2 - 32.7px);
+top: calc(50% - 12.61px/2 + 1.92px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.57px;
+height: 12.65px;
+left: calc(50% - 10.57px/2 - 20.08px);
+top: calc(50% - 12.65px/2 + 2.05px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 9.78px;
+height: 12.45px;
+left: calc(50% - 9.78px/2 - 8.2px);
+top: calc(50% - 12.45px/2 + 2px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.11px;
+height: 12.65px;
+left: calc(50% - 12.11px/2 + 4.63px);
+top: calc(50% - 12.65px/2 + 1.9px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.53px;
+height: 5.36px;
+left: calc(50% - 10.53px/2 + 8.03px);
+top: calc(50% - 5.36px/2 - 8.99px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.84px;
+height: 12.61px;
+left: calc(50% - 12.84px/2 + 19px);
+top: calc(50% - 12.61px/2 + 1.92px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.84px;
+height: 18.16px;
+left: calc(50% - 12.84px/2 + 33.72px);
+top: calc(50% - 18.16px/2 - 0.85px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.56px;
+height: 12.65px;
+left: calc(50% - 10.56px/2 + 47.09px);
+top: calc(50% - 12.65px/2 + 2.05px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 9.79px;
+height: 12.45px;
+left: calc(50% - 9.79px/2 + 58.97px);
+top: calc(50% - 12.45px/2 + 2px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.05px;
+height: 12.61px;
+left: calc(50% - 13.05px/2 + 71.33px);
+top: calc(50% - 12.61px/2 + 1.92px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.54px;
+height: 5.36px;
+left: calc(50% - 10.54px/2 + 75.2px);
+top: calc(50% - 5.36px/2 - 8.99px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.84px;
+height: 12.61px;
+left: calc(50% - 12.84px/2 + 86.18px);
+top: calc(50% - 12.61px/2 + 1.92px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 11.33px;
+height: 24.38px;
+left: calc(50% - 11.33px/2 + 99.01px);
+top: calc(50% - 24.38px/2 - 3.81px);
+
+background: #887369;
+
+
+/* Vector */
+
+position: absolute;
+width: 10.5px;
+height: 12.61px;
+left: calc(50% - 10.5px/2 + 110.15px);
+top: calc(50% - 12.61px/2 + 1.93px);
+
+background: #887369;
+
+
+/* Top Navigation/Desktop */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 1440px;
+height: 114px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Header top section */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 150px;
+gap: 317px;
+
+width: 1440px;
+height: 56px;
+
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Logo */
+
+width: 157px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path 56092 */
+
+position: absolute;
+left: 0%;
+right: 84.71%;
+top: 0%;
+bottom: 1.02%;
+
+background: #1E6258;
+
+
+/* Group */
+
+position: absolute;
+left: 17.63%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Clip path group */
+
+position: absolute;
+left: 17.63%;
+right: 62.56%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* clippath */
+
+position: absolute;
+left: 17.63%;
+right: 62.56%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 17.63%;
+right: 62.56%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 14.96%;
+right: -1.67%;
+top: -11.02%;
+bottom: -10.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.96%;
+right: -1.67%;
+top: -11.02%;
+bottom: -10.03%;
+
+background: linear-gradient(104.29deg, #DBCAAD -0.01%, #C5A78D 11.99%, #B89079 23%, #B38872 30%, #E2D6BA 69%, #E7DEC1 72%, #D7C2A4 82%, #C6A587 93%, #C09A7C 100%);
+
+
+/* Clip path group */
+
+position: absolute;
+left: 39.22%;
+right: 50.99%;
+top: 1.02%;
+bottom: 0.99%;
+
+
+
+/* clippath-1 */
+
+position: absolute;
+left: 39.22%;
+right: 50.99%;
+top: 1.02%;
+bottom: 0.99%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 39.22%;
+right: 50.99%;
+top: 1.02%;
+bottom: 0.99%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 14.96%;
+right: -1.67%;
+top: -11.02%;
+bottom: -10.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.96%;
+right: -1.67%;
+top: -11.02%;
+bottom: -10.03%;
+
+background: linear-gradient(104.29deg, #DBCAAD -0.01%, #C5A78D 11.99%, #B89079 23%, #B38872 30%, #E2D6BA 69%, #E7DEC1 72%, #D7C2A4 82%, #C6A587 93%, #C09A7C 100%);
+
+
+/* Clip path group */
+
+position: absolute;
+left: 66.88%;
+right: 23.69%;
+top: 1.02%;
+bottom: 0.99%;
+
+
+
+/* clippath-2 */
+
+position: absolute;
+left: 66.88%;
+right: 23.69%;
+top: 1.02%;
+bottom: 0.99%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 66.88%;
+right: 23.69%;
+top: 1.02%;
+bottom: 0.99%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 20.09%;
+right: -6.8%;
+top: -11.02%;
+bottom: -10.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 20.09%;
+right: -6.8%;
+top: -11.02%;
+bottom: -10.03%;
+
+background: linear-gradient(104.29deg, #DBCAAD -0.01%, #C5A78D 11.99%, #B89079 23%, #B38872 30%, #E2D6BA 69%, #E7DEC1 72%, #D7C2A4 82%, #C6A587 93%, #C09A7C 100%);
+
+
+/* Clip path group */
+
+position: absolute;
+left: 74.55%;
+right: 14.22%;
+top: 1.02%;
+bottom: 0.99%;
+
+
+
+/* clippath-3 */
+
+position: absolute;
+left: 74.55%;
+right: 14.22%;
+top: 1.02%;
+bottom: 0.99%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 74.55%;
+right: 14.22%;
+top: 1.02%;
+bottom: 0.99%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 33.49%;
+right: -20.2%;
+top: -11.02%;
+bottom: -10.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 33.49%;
+right: -20.2%;
+top: -11.02%;
+bottom: -10.03%;
+
+background: linear-gradient(104.29deg, #DBCAAD -0.01%, #C5A78D 11.99%, #B89079 23%, #B38872 30%, #E2D6BA 69%, #E7DEC1 72%, #D7C2A4 82%, #C6A587 93%, #C09A7C 100%);
+
+
+/* Clip path group */
+
+position: absolute;
+left: 88.11%;
+right: 0%;
+top: 1.02%;
+bottom: 1.02%;
+
+
+
+/* clippath-4 */
+
+position: absolute;
+left: 88.11%;
+right: 0%;
+top: 1.02%;
+bottom: 1.02%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 88.11%;
+right: 0%;
+top: 1.02%;
+bottom: 1.02%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 44.75%;
+right: -31.47%;
+top: -11.02%;
+bottom: -10.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 44.75%;
+right: -31.47%;
+top: -11.02%;
+bottom: -10.03%;
+
+background: linear-gradient(99.28deg, #DBCAAD 21.97%, #C5A78D 30.45%, #B89079 38.21%, #B38872 43.15%, #E2D6BA 70.69%, #E7DEC1 72.81%, #D7C2A4 79.87%, #C6A587 87.63%, #C09A7C 92.58%);
+
+
+/* Clip path group */
+
+position: absolute;
+left: 51.42%;
+right: 40.92%;
+top: 0%;
+bottom: 1.02%;
+
+
+
+/* clippath-5 */
+
+position: absolute;
+left: 51.42%;
+right: 40.92%;
+top: 0%;
+bottom: 1.02%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 51.42%;
+right: 40.92%;
+top: 0%;
+bottom: 1.02%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 14.96%;
+right: -1.67%;
+top: -11.02%;
+bottom: -10.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.96%;
+right: -1.67%;
+top: -11.02%;
+bottom: -10.03%;
+
+background: linear-gradient(104.29deg, #DBCAAD -0.01%, #C5A78D 11.99%, #B89079 23%, #B38872 30%, #E2D6BA 69%, #E7DEC1 72%, #D7C2A4 82%, #C6A587 93%, #C09A7C 100%);
+
+
+/* Clip path group */
+
+position: absolute;
+left: 55.77%;
+right: 35.44%;
+top: 32.88%;
+bottom: 1.02%;
+
+
+
+/* clippath-6 */
+
+position: absolute;
+left: 55.77%;
+right: 35.44%;
+top: 32.88%;
+bottom: 1.02%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 55.77%;
+right: 35.44%;
+top: 32.88%;
+bottom: 1.02%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 14.96%;
+right: -1.67%;
+top: -11.02%;
+bottom: -10.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.96%;
+right: -1.67%;
+top: -11.02%;
+bottom: -10.03%;
+
+background: linear-gradient(104.29deg, #DBCAAD -0.01%, #C5A78D 11.99%, #B89079 23%, #B38872 30%, #E2D6BA 69%, #E7DEC1 72%, #D7C2A4 82%, #C6A587 93%, #C09A7C 100%);
+
+
+/* Header links */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 344px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* K Bank Logo */
+
+width: 32px;
+height: 24px;
+
+background: url(Group.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About link */
+
+width: 137px;
+height: 20px;
+
+/* General/Label-Semibold
+
+ใช้สำหรับ Label และ Input
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Contact link */
+
+width: 127px;
+height: 20px;
+
+/* General/Label-Semibold
+
+ใช้สำหรับ Label และ Input
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Header bottom section */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 48px;
+gap: 200px;
+
+width: 1162px;
+height: 48px;
+
+/* K Wealth/Deep Green/400 */
+background: #1C6157;
+box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1321318620 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 621px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+width: 137px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Knowledge link */
+
+width: 121px;
+height: 24px;
+
+/* General/Button-Small */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* Text & Icon/White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+width: 152px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Knowledge link */
+
+width: 136px;
+height: 24px;
+
+/* General/Button-Small */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* Text & Icon/White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+width: 109px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Knowledge link */
+
+width: 93px;
+height: 24px;
+
+/* General/Button-Small */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* Text & Icon/White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 8px;
+gap: 8px;
+
+width: 151px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Knowledge link */
+
+width: 135px;
+height: 24px;
+
+/* General/Button-Small */
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* Text & Icon/White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Search inout */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px;
+gap: 4px;
+
+width: 200px;
+height: 36px;
+
+background: #EDEDED;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icons */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1000003394 */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Text & Icon/Storm Dust
+
+ใช้สำหรับ Body text
+*/
+background: #666666;
+
+
+/* text */
+
+width: 122px;
+height: 20px;
+
+/* General/Caption-Regular
+
+ใช้เป็น Caption หรือ Remark
+*/
+font-family: 'Kurious Looped Cond';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+
+/* Text & Icon/Storm Dust */
+color: #666666;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
